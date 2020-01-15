@@ -1,3 +1,5 @@
+https://knfjed.github.io/animation/
+
 # メニューを横にスライド表示させる
 
 参考：https://techblog.raccoon.ne.jp/archives/1572506557.html
